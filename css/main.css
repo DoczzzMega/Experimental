@@ -1,0 +1,13 @@
+body {
+    background-image: url(../img/1.jpg);
+    background-image: url(../img/2.jpg), url(../img/1.jpg);
+    background-position: bottom 100px right, center;
+    background-repeat: repeat-x;
+ 
+}
+p {
+    overflow: auto;
+    border: solid #000;
+    border-width: 10px 0px;
+    padding: 20px;
+}
