@@ -68,6 +68,6 @@ Yellow|14|12345
 Термин
 : Определение
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hyUBMmL0WtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video src="1.mp4" width="400px" controls="controls" autoplay="autoplay" muted></video>
 
 [Upper](#anchor)
