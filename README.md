@@ -68,6 +68,5 @@ Yellow|14|12345
 Термин
 : Определение
 
-<video src="1.mp4" width="400px" controls="controls" autoplay="autoplay" muted></video>
 
 [Upper](#anchor)
